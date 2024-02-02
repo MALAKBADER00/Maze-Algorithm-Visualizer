@@ -16,7 +16,7 @@ The Maze Solver project is a Python-based application that provides an interacti
 
 ## Demo
 
-[![Watch the demo](demo_thumbnail.png)](demo_video.mp4)
+[![Watch the demo](demo_thumbnail.png)](Demo.mp4)
 
 Click the image above to watch the demo video.
 
